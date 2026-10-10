@@ -1,0 +1,12 @@
+mss
+Pillow
+anthropic
+python-dotenv
+keyboard
+pystray
+openpyxl
+chromadb
+
+# Opcional — solo si querés el modo "OCR local" (checkbox en la UI).
+# Si no lo instalás, la app funciona igual con visión directa.
+pytesseract

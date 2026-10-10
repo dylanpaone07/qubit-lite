@@ -1,7 +1,0 @@
-mss
-Pillow
-pytesseract
-anthropic
-python-dotenv
-keyboard
-pystray

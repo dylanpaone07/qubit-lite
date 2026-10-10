@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Qubit Lite — datos generados localmente
+registros_qubit.xlsx
+qubit_memory_db/
+*.xlsx
+
+# Artefactos de sandbox / build
+mnt/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
